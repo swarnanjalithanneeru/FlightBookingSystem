@@ -1,0 +1,37 @@
+## Build and Debug Directories
+bin/
+obj/
+out/
+TestResults/
+
+## Visual Studio
+.vs/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+## Visual Studio Code
+.vscode/
+
+## Rider
+.idea/
+
+## OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+## Logs
+*.log
+
+## Local database data files (not code/migrations)
+*.mdf
+*.ldf
+
+## Package cache
+packages/
+*.nuget.props
+*.nuget.targets

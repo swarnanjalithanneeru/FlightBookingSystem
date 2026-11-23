@@ -1,0 +1,18 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ApiGateway/ApiGateway.csproj" />
+  </Folder>
+  <Folder Name="/src/Services/">
+    <Project Path="src/Services/BookingService/BookingService.csproj" />
+    <Project Path="src/Services/FlightService/FlightService.csproj" />
+    <Project Path="src/Services/PassengerService/PassengerService.csproj" />
+    <Project Path="src/Services/PaymentService/PaymentService.csproj" />
+    <Project Path="src/Services/UserService/UserService.csproj" />
+  </Folder>
+  <Folder Name="/src/Shared/">
+    <Project Path="src/Shared/FlightBookingSystem.Shared/FlightBookingSystem.Shared.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/FlightBookingSystem.Tests/FlightBookingSystem.Tests.csproj" />
+  </Folder>
+</Solution>
